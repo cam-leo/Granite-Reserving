@@ -1,0 +1,23 @@
+# Generated data: rebuild it with the simulator (fixed seed), don't commit it
+data/
+*.parquet
+*.csv
+
+# Keys and passwords
+.env
+.env.*
+*.pem
+*.key
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Excel and OS clutter
+~$*
+.DS_Store
+Thumbs.db
