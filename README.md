@@ -4,6 +4,7 @@ My personal exploratory project in reserving
 A full year-end reserve review of a fictional mid-sized Canadian P&C insurer, Granite Lantern Insurance, with pricing and capital built around it: simulated claim data, triangles, Exam 5 methods, Exam 7 stochastic reserving, reinsurance, IFRS 17, rate indications and ERM. All data is made up.
 
 - [Project scope](docs/SCOPE.md)
+- [Context for a new chat](docs/PROJECT-CONTEXT.md)
 
 ## Saving your work to GitHub
 
