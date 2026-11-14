@@ -6,6 +6,10 @@ A full year-end reserve review of a fictional mid-sized Canadian P&C insurer, Gr
 - [Project scope](docs/SCOPE.md)
 - [Context for a new chat](docs/PROJECT-CONTEXT.md)
 
+## Documentation
+
+The [Granite Reserving documentation](https://cam-leo.github.io/Granite-Reserving/) walks through claim data preparation, Python and Excel examples, and reserving methods. See the [documentation guide](docs/BUILD.md) to preview the site locally or configure GitHub Pages.
+
 ## Saving your work to GitHub
 
 Open PowerShell in this folder and run:
