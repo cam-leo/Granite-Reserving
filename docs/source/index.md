@@ -8,11 +8,11 @@ Afterwards, I'll take a look at how to actually incorporate this Python workflow
 
 Finally, I want to do a deep-dive into how AI can affect our work; how I can use it to either make my workflow more efficient, or discover new ideas and findings that will allow me to produce more accurate and sustainable results.
 
-Step 1: Let's begin with the Python basics: [Getting Started](getting-started.md) for a tour of the reserve review. If you already work with claims in spreadsheets, [Python Fundamentals](python-fundamentals.md) shows how to translate a familiar task into code.
+Start with [Python Basics](python-basics.md) for variables, data types, and basic operations. Then try [Python Fundamentals](python-fundamentals.md) to see how Python can handle a familiar Excel task.
 
 | Section | What you'll find |
 | --- | --- |
-| [Getting Started](getting-started.md) | The reserve review workflow and the terms used throughout the guide. |
+| [Python Basics](python-basics.md) | Variables, data types, and basic operations. |
 | [Python Fundamentals](python-fundamentals.md) | A runnable example of aggregating claim payments by accident year. |
 | [Data Preparation](data-preparation.md) | How to reconcile transactions and build a cumulative paid triangle. |
 | [Reserving Methods](reserving-methods.md) | A worked chain ladder calculation and the assumptions behind it. |
@@ -22,7 +22,7 @@ Step 1: Let's begin with the Python basics: [Getting Started](getting-started.md
 :hidden:
 :maxdepth: 2
 
-getting-started
+python-basics
 python-fundamentals
 data-preparation
 reserving-methods
