@@ -7,6 +7,8 @@ myst_enable_extensions = ["dollarmath"]
 
 html_theme = "pydata_sphinx_theme"
 html_title = project
+html_static_path = ["_static"]
+html_css_files = ["matcha-clay.css"]
 html_baseurl = "https://cam-leo.github.io/Granite-Reserving/"
 html_theme_options = {
     "logo": {"text": project},
