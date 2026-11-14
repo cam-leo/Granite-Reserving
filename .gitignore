@@ -21,3 +21,7 @@ __pycache__/
 ~$*
 .DS_Store
 Thumbs.db
+
+# Sphinx
+.venv-docs/
+docs/_build/
