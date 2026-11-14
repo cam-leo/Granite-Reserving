@@ -8,23 +8,21 @@ Afterwards, I'll take a look at how to actually incorporate this Python workflow
 
 Finally, I want to do a deep-dive into how AI can affect our work; how I can use it to either make my workflow more efficient, or discover new ideas and findings that will allow me to produce more accurate and sustainable results.
 
-Start with [Python Basics](python-basics.md) for variables, data types, and basic operations. Then try [Python Fundamentals](python-fundamentals.md) to see how Python can handle a familiar Excel task.
+Start with [Python Basics](python-basics.md), then use a small claims dataset to translate familiar spreadsheets into code in [Excel to Python](excel-to-python.md).
 
 | Section | What you'll find |
 | --- | --- |
 | [Python Basics](python-basics.md) | Variables, data types, and basic operations. |
-| [Python Fundamentals](python-fundamentals.md) | A runnable example of aggregating claim payments by accident year. |
-| [Data Preparation](data-preparation.md) | How to reconcile transactions and build a cumulative paid triangle. |
-| [Reserving Methods](reserving-methods.md) | A worked chain ladder calculation and the assumptions behind it. |
-| [Case Studies](case-studies.md) | A synthetic example of how a change in payment speed affects the estimate. |
+| [Excel to Python](excel-to-python.md) | XLOOKUP, SUMIFS, COUNTIFS, and PivotTable equivalents on a small claims dataset. |
+| [Actuarial Analysis](actuarial-analysis.md) | Build triangles and work through chain ladder and Bornhuetter–Ferguson in Python before using the chainladder package. |
+| [Granite Reserving Project](granite-reserving-project.md) | Apply the workflow to a year-end reserve review for a fictional insurer. |
 
 ```{toctree}
 :hidden:
 :maxdepth: 2
 
 python-basics
-python-fundamentals
-data-preparation
-reserving-methods
-case-studies
+excel-to-python
+actuarial-analysis
+granite-reserving-project
 ```
