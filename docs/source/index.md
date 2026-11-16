@@ -16,6 +16,7 @@ Start with [Python Basics](python-basics.md), then use a small claims dataset to
 | [Excel to Python](excel-to-python.md) | XLOOKUP, SUMIFS, COUNTIFS, and PivotTable equivalents on a small claims dataset. |
 | [Actuarial Analysis](actuarial-analysis.md) | Build triangles and work through chain ladder and Bornhuetter–Ferguson in Python before using the chainladder package. |
 | [Granite Reserving Project](granite-reserving-project.md) | Apply the workflow to a year-end reserve review for a fictional insurer. |
+| [Materials](materials.md) | Python books for learning the language, working with data, and automating Excel. |
 
 ```{toctree}
 :hidden:
@@ -25,4 +26,5 @@ python-basics
 excel-to-python
 actuarial-analysis
 granite-reserving-project
+materials
 ```
