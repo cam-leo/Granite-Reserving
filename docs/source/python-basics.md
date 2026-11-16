@@ -52,4 +52,10 @@ Strings are series of characters. Whatever you put inside quotes is considered a
 print('"I told my friend, "Actuaries are actually really cool!"')
 ```
 
+This will have the output:
+
+```text
+"I told my friend, "Actuaries are actually really cool!"
+```
+
 Next, [Excel to Python](excel-to-python.md) applies those ideas to a small claims dataset.
