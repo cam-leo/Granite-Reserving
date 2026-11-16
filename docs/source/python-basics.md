@@ -58,4 +58,20 @@ This will have the output:
 "I told my friend, "Actuaries are actually really cool!"
 ```
 
+## Comments
+
+If you need to comment on a certain block of code, to explain how it works so you have something to reference to when you return to the project, you can do so by this:
+
+```python
+# This is a comment worthy of an Actuary!
+print("Hello Actuary!")
+```
+
+Running this, Python will ignore the first line and only execute the second line
+
+```text
+Hello Actuary!
+```
+
+
 Next, [Excel to Python](excel-to-python.md) applies those ideas to a small claims dataset.
