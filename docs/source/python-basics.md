@@ -33,6 +33,23 @@ If you run this, you should see this output:
 Hello Actuary!
 ```
 
+### Convention for Variables
 
+Some guidelines to write code that is easy and nice to understand:
+
+1. Variable names can only contain letters, numbers, underscores. They cannot start with a number
+2. Spaces aren't able to be used but underscores can
+3. Avoid using Python keywords and function names as variable names
+4. Use short and descriptive names
+
+Think of variables as labels that you can assign to values ie a variable references a certain value.
+
+## Strings
+
+Strings are series of characters. Whatever you put inside quotes is considered a string. You can use single or double quotes:
+
+```python
+print('"I told my friend, "Actuaries are actually really cool!"')
+```
 
 Next, [Excel to Python](excel-to-python.md) applies those ideas to a small claims dataset.
